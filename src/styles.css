@@ -1867,7 +1867,7 @@ html { scroll-behavior: auto; }
   background: #fff;
   border: 1px solid var(--line);
   padding: 34px;
-  margin-left: -150px;
+  margin-left: 0;
 }
 
 .contact-field {
